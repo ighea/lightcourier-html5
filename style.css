@@ -1,0 +1,33 @@
+{
+	margin: 0;
+	padding: 0;
+}
+
+a:link {color:black;}      /* unvisited link */
+a:visited {color:black;}  /* visited link */
+a:hover {color:yellow;}  /* mouse over link */
+a:active {color:white;}  /* selected link */
+
+body
+{
+	text-align:center;
+	background-color: darkgray;
+	color: black;
+}
+
+.meil
+{
+	font-size: 75%;
+}
+
+#note
+{
+	font-size: 75%;
+}
+
+#canvascontainer
+{
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+}
