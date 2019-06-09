@@ -13,4 +13,4 @@ This game is HTML5 port of a game developed with a team of four during 24 hour c
 
 ![LightCourier credits](https://raw.githubusercontent.com/ighea/lightcourier-html5/master/screenshots/lightcourier4.png)
 
-[Try it out on browser!]: https://ighea.github.io/lightcourier-html5/
+[Try it out on browser!](https://ighea.github.io/lightcourier-html5/)
